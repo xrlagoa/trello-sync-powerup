@@ -25,3 +25,21 @@ Se crearon los siguientes archivos:
 4. Se creó un archivo `.nojekyll` vacío para evitar conflictos con el motor Jekyll.
 5. La URL final del Power-Up quedó disponible en:
 
+https://xrlagoa.github.io/trello-sync-powerup/index.html
+
+---
+
+## 🔗 Registro del Power-Up en Trello
+
+- Se completó el formulario de registro en Trello Developer Portal.
+- Se asignó el Power-Up al espacio de trabajo correspondiente.
+- Se configuró el icono personalizado y el `iframeConnectorUrl`.
+- El botón del Power-Up aparece correctamente en el tablero.
+
+---
+
+## ✅ Verificación
+
+- El Power-Up se carga correctamente desde GitHub Pages.
+- El botón “Activar Sincronización” aparece en el tablero.
+- Se confirmó que el entorno está listo para avanzar a la Fase 2.
