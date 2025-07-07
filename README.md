@@ -17,3 +17,17 @@ El Power-Up agrega un botón al tablero de Trello que abre un popup para iniciar
 
 Asegúrate de que el campo `iframeConnectorUrl` en `manifest.json` apunte a tu GitHub Pages:
 
+https://xrlagoa.github.io/trello-sync-powerup/index.html
+
+## Estado actual
+
+- El Power-Up está registrado en el portal de desarrolladores de Trello.
+- El código está probado y funcional.
+- Se encuentra en proceso de solicitud de habilitación para pruebas internas.
+
+## Autor
+
+**Xosé Ramón López Lagoa**  
+EfíGalia  
+joseramon.lopez@efigalia.es
+xr.lagoa@gmail.com
